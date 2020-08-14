@@ -1,7 +1,8 @@
 ![Programmer](https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif)
 
 ### Hi there 👋
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/VishalAmbavade.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ghimireadarsh?tab=followers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/vishal_ambavade.svg?style=social)](https://twitter.com/vishal_ambavade)  
 
