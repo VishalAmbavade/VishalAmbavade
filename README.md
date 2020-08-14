@@ -35,7 +35,7 @@ Here are some ideas to get you started:-->
   <img align="left" alt="Vishal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://stackoverflow.com/users/9611950/vishal-a">
-  <img align="left" alt="Vishal's StackOverflow" width="22px" src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.svg?v=f13ebeedfa9e" />
+  <img align="left" alt="Vishal's StackOverflow" width="22px" src=""https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect"/>
 </a>
 <br />
 <br />
