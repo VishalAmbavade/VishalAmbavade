@@ -6,19 +6,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/VishalAmbavade.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ghimireadarsh?tab=followers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/vishal_ambavade.svg?style=social)](https://twitter.com/vishal_ambavade)  
 
-
-<!--
-**VishalAmbavade/VishalAmbavade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
-
-- 🔭 I’m currently working on Hybrid Cloud and Data Science.
-- 🌱 I’m currently learning Cloud and MongoDB.
-- 👯 I’m looking to collaborate on Data Science Projects.
-- 🤔 I’m looking for help with Data Science.
-- 💬 Ask me about R Proramming.
-- ⚡ Fun fact: I am in love with R Programming :heartbeat:
-- 📫 How to reach me:  <p>
 <a href="https://twitter.com/vishal_ambavade">
   <img align="left" alt="Vishal Ambavade | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -35,7 +22,18 @@ Here are some ideas to get you started:-->
 <br>
 <br>
 
-<!--- 
+<!--
+**VishalAmbavade/VishalAmbavade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:-->
+
+- 🔭 I’m currently working on Hybrid Cloud and Data Science.
+- 🌱 I’m currently learning Cloud and MongoDB.
+- 👯 I’m looking to collaborate on Data Science Projects.
+- 🤔 I’m looking for help with Data Science.
+- 💬 Ask me about R Proramming.
+- ⚡ Fun fact: I am in love with R Programming :heartbeat:
+<!---- 📫 How to reach me:   
 - 😄 Pronouns: ...-->
 
 [![Github Stats By Vishal Ambavade](https://github-readme-stats.vercel.app/api?username=VishalAmbavade&hide=prs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)]()
