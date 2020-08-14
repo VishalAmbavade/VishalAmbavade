@@ -69,9 +69,9 @@ Here are some ideas to get you started:-->
      height=30px
      alt="Git"/>
 <img src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg"
-     width=30px
+     width=75px
      height=30px
-     alt="Git"/>
+     alt="RStudio"/>
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"
      width=30px
      height=30px
