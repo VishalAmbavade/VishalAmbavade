@@ -1,4 +1,10 @@
+![Programmer](https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif)
+
 ### Hi there 👋
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/vishal-ambavade-10941812b/]
+[![GitHub followers](https://img.shields.io/github/followers/VishalAmbavade.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ghimireadarsh?tab=followers)
+[![Twitter Follow](https://img.shields.io/twitter/follow/vishal_ambavade.svg?style=social)](https://twitter.com/vishal_ambavade)  
+
 
 <!--
 **VishalAmbavade/VishalAmbavade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
