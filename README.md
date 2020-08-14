@@ -26,7 +26,7 @@
 **VishalAmbavade/VishalAmbavade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
 
-### Tecnologies Ive worked on:
+### Tecnologies I've worked on:
 
 <img src="https://img.icons8.com/color/48/000000/nutanix.png"
      width=30px
@@ -49,6 +49,10 @@ Here are some ideas to get you started:-->
      height=30px
      alt="R Programming"/>   
 <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg"
+     width=30px
+     height=30px
+     alt="R Programming"/>   
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
      width=30px
      height=30px
      alt="R Programming"/>   
