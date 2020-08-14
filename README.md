@@ -28,42 +28,42 @@ Here are some ideas to get you started:-->
 
 ### Tecnologies Ive worked on:
 
-<img src="https://img.icons8.com/color/48/000000/nutanix.png">
+<img src="https://img.icons8.com/color/48/000000/nutanix.png"
      width=30px
      height=30px
-     alt="Vault"/>
-<img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png">
+     alt="Nutanix"/>
+<img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"
      width=30px
      height=30px
-     alt="Vault"/>
-<img src="https://img.icons8.com/color/48/000000/python.png">
+     alt="Google Cloud"/>
+<img src="https://img.icons8.com/color/48/000000/python.png"
      width=30px
      height=30px
-     alt="Vault"/>
-<img src="https://www.r-project.org/logo/Rlogo.svg">
+     alt="Python"/>
+<img src="https://www.r-project.org/logo/Rlogo.svg"
      width=30px
      height=30px
-     alt="Vault"/>   
-<img src="https://img.icons8.com/fluent/48/000000/android-os.png">
+     alt="R Programming"/>   
+<img src="https://img.icons8.com/fluent/48/000000/android-os.png"
      width=30px
      height=30px
-     alt="Vault"/>  
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
+     alt="Android"/>  
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"
      width=30px
      height=30px
-     alt="Vault"/> 
-<img src="https://www.mysql.com/common/logos/powered-by-mysql-167x86.png">
+     alt="Java"/> 
+<img src="https://www.mysql.com/common/logos/powered-by-mysql-167x86.png"
      width=30px
      height=30px
-     alt="Vault"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Wireshark_Logo.svg">
+     alt="MySQL"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Wireshark_Logo.svg"
      width=30px
      height=30px
-     alt="Vault"/>
- <img src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png">
+     alt="Wireshark"/>
+ <img src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png"
      width=30px
      height=30px
-     alt="Vault"/>    
+     alt="MongoDB"/>    
      
 
 - 🔭 I’m currently working on Hybrid Cloud and Data Science.
