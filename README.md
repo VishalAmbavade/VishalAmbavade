@@ -16,8 +16,9 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning Cloud and MongoDB.
 - 👯 I’m looking to collaborate on Data Science Projects.
 - 🤔 I’m looking for help with Data Science.
-- ⚡ Fun fact: I am in love with R Programming :heartbeat:
 - 💬 Ask me about R Proramming.
+- ⚡ Fun fact: I am in love with R Programming :heartbeat:
+
 <!--- 📫 How to reach me: ...
 - 😄 Pronouns: ...-->
 
