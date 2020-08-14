@@ -45,7 +45,7 @@ Here are some ideas to get you started:-->
      height=30px
      alt="R Programming"/>   
 <img src="https://img.icons8.com/fluent/48/000000/android-os.png"
-     width=30px
+     width=40px
      height=30px
      alt="Android"/>  
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"
