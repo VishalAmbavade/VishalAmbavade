@@ -45,25 +45,9 @@ Here are some ideas to get you started:-->
      height=30px
      alt="R Programming"/>   
 <img src="https://img.icons8.com/fluent/48/000000/android-os.png"
-     width=40px
-     height=30px
-     alt="Android"/>  
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"
      width=30px
      height=30px
-     alt="Java"/> 
-<img src="https://www.mysql.com/common/logos/powered-by-mysql-167x86.png"
-     width=60px
-     height=30px
-     alt="MySQL"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Wireshark_Logo.svg"
-     width=60px
-     height=30px
-     alt="Wireshark"/>
- <img src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png"
-     width=60px
-     height=30px
-     alt="MongoDB"/>    
+     alt="Android"/>      
      
 
 - 🔭 I’m currently working on Hybrid Cloud and Data Science.
