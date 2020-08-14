@@ -17,7 +17,9 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on Data Science Projects.
 - 🤔 I’m looking for help with Data Science.
 - 💬 Ask me about R Proramming.
-- 📫 How to reach me:  <a href="https://twitter.com/vishal_ambavade">
+- ⚡ Fun fact: I am in love with R Programming :heartbeat:
+- 📫 How to reach me:  
+<a href="https://twitter.com/vishal_ambavade">
   <img align="left" alt="Vishal Ambavade | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/vishal-ambavade-10941812b">
@@ -30,7 +32,6 @@ Here are some ideas to get you started:-->
   <img align="left" alt="Vishal's StackOverflow" width="22px" src="https://img.icons8.com/metro/26/000000/stackoverflow.png"/>
 </a>
 <br>
-- ⚡ Fun fact: I am in love with R Programming :heartbeat:
 
 <!--- 
 - 😄 Pronouns: ...-->
