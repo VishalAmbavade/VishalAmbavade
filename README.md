@@ -25,6 +25,46 @@
 <!--
 **VishalAmbavade/VishalAmbavade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+### Tecnologies Ive worked on:
+<img src="https://img.icons8.com/color/48/000000/nutanix.png">
+     width=30px
+     height=30px
+     alt="Vault"/>
+<img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png">
+     width=30px
+     height=30px
+     alt="Vault"/>
+<img src="https://img.icons8.com/color/48/000000/python.png">
+     width=30px
+     height=30px
+     alt="Vault"/>
+<img src="https://www.r-project.org/logo/Rlogo.svg">
+     width=30px
+     height=30px
+     alt="Vault"/>   
+<img src="https://img.icons8.com/fluent/48/000000/android-os.png">
+     width=30px
+     height=30px
+     alt="Vault"/>  
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
+     width=30px
+     height=30px
+     alt="Vault"/> 
+<img src="https://www.mysql.com/common/logos/powered-by-mysql-167x86.png">
+     width=30px
+     height=30px
+     alt="Vault"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Wireshark_Logo.svg">
+     width=30px
+     height=30px
+     alt="Vault"/>
+ <img src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png">
+     width=30px
+     height=30px
+     alt="Vault"/>    
+     
+
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Hybrid Cloud and Data Science.
