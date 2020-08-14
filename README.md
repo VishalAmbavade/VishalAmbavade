@@ -17,7 +17,8 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on Data Science Projects.
 - 🤔 I’m looking for help with Data Science.
 - 💬 Ask me about R Proramming.
-- 📫 How to reach me: <a href="https://twitter.com/vishal_ambavade">
+- 📫 How to reach me: 
+<a href="https://twitter.com/vishal_ambavade">
   <img align="left" alt="Vishal Ambavade | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/vishal-ambavade-10941812b">
