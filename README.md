@@ -48,6 +48,10 @@ Here are some ideas to get you started:-->
      width=30px
      height=30px
      alt="R Programming"/>   
+<img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg"
+     width=30px
+     height=30px
+     alt="R Programming"/>   
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"
      width=30px
      height=30px
