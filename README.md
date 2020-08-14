@@ -18,7 +18,7 @@ Here are some ideas to get you started:-->
 - 🤔 I’m looking for help with Data Science.
 - 💬 Ask me about R Proramming.
 - ⚡ Fun fact: I am in love with R Programming :heartbeat:
-- 📫 How to reach me:  
+- 📫 How to reach me:  <p>
 <a href="https://twitter.com/vishal_ambavade">
   <img align="left" alt="Vishal Ambavade | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -31,6 +31,8 @@ Here are some ideas to get you started:-->
 <a href="https://stackoverflow.com/users/9611950/vishal-a">
   <img align="left" alt="Vishal's StackOverflow" width="22px" src="https://img.icons8.com/metro/26/000000/stackoverflow.png"/>
 </a>
+  </p>
+<br>
 <br>
 
 <!--- 
