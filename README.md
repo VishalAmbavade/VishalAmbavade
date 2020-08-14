@@ -24,9 +24,10 @@
 
 <!--
 **VishalAmbavade/VishalAmbavade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Here are some ideas to get you started:-->
 
 ### Tecnologies Ive worked on:
+
 <img src="https://img.icons8.com/color/48/000000/nutanix.png">
      width=30px
      height=30px
@@ -64,8 +65,6 @@
      height=30px
      alt="Vault"/>    
      
-
-Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Hybrid Cloud and Data Science.
 - 🌱 I’m currently learning Cloud and MongoDB.
